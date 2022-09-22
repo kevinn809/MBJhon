@@ -127,9 +127,9 @@ body {
 
 .gallery img {
     width: 400px;
-    height: 400px;
-    padding: 50px 10px;   
-    align-items: center ; 
+    height: 300px;
+    padding: 40px 1px;   
+    align-items: center ;
 }
 
 .button-contact{
@@ -225,10 +225,10 @@ body {
     }
 
     .gallery img {
-        width: 400px;
-        padding: 20px 40px;   
-        align-items: center; 
-
+        width: 300px;
+        padding: 10px 1px;   
+        align-items: center;
+        margin: 10px;
     }
 
     .button-contact a{
